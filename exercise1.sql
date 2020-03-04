@@ -1,1 +1,1 @@
-create schema myNewDB
+create schema myNewDB;
