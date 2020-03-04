@@ -1,0 +1,1 @@
+SHOW COLUMN FROM Users;
